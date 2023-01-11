@@ -3,9 +3,11 @@ Go batch programs.
 
 Learn how batch processing works with simple codes.
 
-## Insert from CSV file to MySQL
+## 01 Simple Program
 
-## Insert from MySQL to CSV file 
+## 02 Insert from CSV file to MySQL
+
+## 03 Insert from MySQL to CSV file 
 
 ## There is a mistake in my code.
 
